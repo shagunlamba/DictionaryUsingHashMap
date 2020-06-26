@@ -4,7 +4,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-//Implementing a dictionary by using my own built hasmap
+//Implementing a dictionary by using my own built hashmap
 
 class Node
 {
